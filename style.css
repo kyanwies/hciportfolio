@@ -40,7 +40,7 @@ li {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100%;
+	padding: 0 10% 0 10%;
 }
 
 h1, h2, h3, h4 {
@@ -150,6 +150,7 @@ a {
 	#topic-elements h3, #workshop-elements h3, #excursie-elements h3, #labweken-elements h3 {margin: 5% 0 0 0;}
 	p {font-size: 1vw; padding: 0 20% 0 20%;}
 	#ik {width: 20%; padding-top: 15%;}
+	.fotos {padding: 0 20% 0 20%;}
 	a {font-size: 1vw;}
 	#tp:hover {color: #6464ff;}
 	#ws:hover {color: #4ec695;}
