@@ -40,6 +40,7 @@ li {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	width: 50%;
 }
 
 h1, h2, h3, h4 {
@@ -138,7 +139,8 @@ a {
 	h1, h2, h3 {font-size: 4vw;}
 	h4 {font-size: 3vw;}
 	p {font-size: 2.5vw;}
-	img {width: 30%;}
+	#ik {width: 30%;}
+	.fotos {width: 40%;}
 	a {font-size: 2.5vw;}
 }
 
@@ -148,14 +150,14 @@ a {
 	h1, h2, h3, h4 {padding: 0 20% 0 20%;}
 	#topic-elements h3, #workshop-elements h3, #excursie-elements h3, #labweken-elements h3 {margin: 5% 0 0 0;}
 	p {font-size: 1vw; padding: 0 20% 0 20%;}
-	img {width: 20%;}
+	#ik {width: 20%; padding-top: 15%;}
 	a {font-size: 1vw;}
 	#tp:hover {color: #6464ff;}
 	#ws:hover {color: #4ec695;}
 	#xc:hover {color: #ffbe5f;}
 	#lw:hover {color: #ff5a5f;}
 	ul {padding: 0;}
-	img {padding-top: 15%;}
+	.fotos {width: 30%;}
 	#topics, #workshops, #excursie, #labweken {margin: 10% 20% 0 20%;}
 }
 
